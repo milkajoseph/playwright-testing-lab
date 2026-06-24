@@ -1,0 +1,1 @@
+console.log("Git practice file for automation project");

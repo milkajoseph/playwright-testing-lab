@@ -23,4 +23,4 @@ jobs:
         run: npm install
 
       - name: Run Cricket Auction Manager
-        run: node playwright-testing-lab\auctionManager\app.js
+        run: node auctionManager\app.js

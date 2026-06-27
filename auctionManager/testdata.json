@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "age": 36,
+    "role": "Batsman",
+    "basePrice": 200,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "age": 38,
+    "role": "Batsman",
+    "basePrice": 180,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 3,
+    "name": "Jasprit Bumrah",
+    "age": 32,
+    "role": "Bowler",
+    "basePrice": 220,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 4,
+    "name": "Mohammed Shami",
+    "age": 35,
+    "role": "Bowler",
+    "basePrice": 170,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 5,
+    "name": "Hardik Pandya",
+    "age": 32,
+    "role": "AllRounder",
+    "basePrice": 210,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "age": 34,
+    "role": "AllRounder",
+    "basePrice": 205,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 7,
+    "name": "David Warner",
+    "age": 39,
+    "role": "Batsman",
+    "basePrice": 160,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 8,
+    "name": "Mitchell Starc",
+    "age": 36,
+    "role": "Bowler",
+    "basePrice": 190,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 9,
+    "name": "Glenn Maxwell",
+    "age": 37,
+    "role": "AllRounder",
+    "basePrice": 185,
+    "soldPrice": 0,
+    "isSold": false
+  },
+  {
+    "id": 10,
+    "name": "KL Rahul",
+    "age": 34,
+    "role": "Batsman",
+    "basePrice": 175,
+    "soldPrice": 0,
+    "isSold": false
+  }
+]

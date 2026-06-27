@@ -20,7 +20,9 @@ jobs:
           node-version: 20
 
       - name: Install Dependencies
+        working-directory: auctionManager
         run: npm install
 
       - name: Run Cricket Auction Manager
-        run: node auctionManager/app.js
+        working-directory: auctionManager
+        run: node app.js
